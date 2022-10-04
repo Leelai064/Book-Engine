@@ -15,6 +15,7 @@ Given a fully operational book search engine that allows the user to search for 
 * It is important to run npm i in intergrated folders for both the server and client side.
 
 ## Demonstration
+ *Please run: npm start in your terminal
 
 ![Video](./assests/Demo.gif)
 
@@ -23,3 +24,9 @@ Given a fully operational book search engine that allows the user to search for 
 ## GitHub Repository Link
 
 https://github.com/Leelai064/Book-Engine
+
+## Heroku Deployment
+
+* I am fully aware that there is an application error in the deployment. For functionality purposes please run: npm start in your terminal while the heroku issue is resolved thank you. If you have any questions or would like to give suggestions please reach out to me on Github. 
+
+Link Access: https://lit-taiga-99032.herokuapp.com/
