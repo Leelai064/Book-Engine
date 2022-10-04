@@ -5,6 +5,10 @@
 Given a fully operational book search engine that allows the user to search for book titles and add them to their account, this project tasks the devloper to utilize Apollo and graohql for the mutations and quries code. By getting rid of the already existing routes and the API algorithm, the developer is able to make a more funcitonal REACT application.
 
 ## Table of Contents
+* [Description](#description)
+* [Installation](#installlation)
+* [Demo](#demonstration)
+* [Github](#github-repository-link)
 
 ## Installlation
 
